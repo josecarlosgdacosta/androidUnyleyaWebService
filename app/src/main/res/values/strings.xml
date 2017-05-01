@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AndroidUnyleyaWebService</string>
+
+    <string name="spinner_prompt">Selecione</string>
+
+    <string-array name="servicos">
+        <item>SEDEX Varejo</item>
+        <item>SEDEX a cobrar Varejo</item>
+        <item>SEDEX 10 Varejo</item>
+        <item>SEDEX Hoje Varejo</item>
+        <item>PAC Varejo</item>
+    </string-array>
+
+    <string-array name="servicos_value">
+        <item>40010</item>
+        <item>40045</item>
+        <item>40215</item>
+        <item>40290</item>
+        <item>41106</item>
+    </string-array>
+
+    <string-array name="sim_nao">
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
+
+    <string-array name="sim_nao_values">
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+
+    <string-array name="formatos">
+        <item>Formato caixa/pacote</item>
+        <item>Formato rolo/prisma</item>
+        <item>Envelope</item>
+    </string-array>
+
+    <string-array name="formatos_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="title_activity_result">ResultActivity</string>
+
+</resources>
